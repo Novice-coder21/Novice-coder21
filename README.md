@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Novice-coder21
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in coding, and have learned in C.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on python and other intresting programs.
 - 📫 How to reach me email: talharashidg6@gmail.com
 
